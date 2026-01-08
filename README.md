@@ -1,5 +1,5 @@
 # Email-Phishing-Report-
-# In an effort to raise awareness of email security, a research examined and identified phishing emails utilizing AbuseIPDB, Thunderbird, malware total highlighting techniques for recognizing dangerous links, questionable senders, and social engineering.
+ In an effort to raise awareness of email security, a research examined and identified phishing emails utilizing AbuseIPDB, Thunderbird, malware total highlighting techniques for recognizing dangerous links, questionable senders, and social engineering.
 * MetaData Analysis
 * Sender Information and Authentication Report
 *  Sender Domain Mismatch (Classic Phishing Tactic) 
